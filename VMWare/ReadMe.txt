@@ -1,5 +1,4 @@
-# PowerCLI Script for retrieving iSCSI Path Status from ESXi Hosts
-# @yenpuren
+# Read Me @yenpuren
 # https://github.com/yenpuren
 
 Prerequisites & Initialization (NY)
