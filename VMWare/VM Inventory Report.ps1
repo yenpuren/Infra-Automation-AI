@@ -1,4 +1,5 @@
-# PowerCLI Script for retrieving iSCSI Path Status from ESXi Hosts
+# PowerCLI Script to Generate Complete VM Inventory Report (CSV Export)
+# Use this to export an automated corporate inventory report containing vital operational details.
 # @yenpuren
 # https://github.com/yenpuren
 
