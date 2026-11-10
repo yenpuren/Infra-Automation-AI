@@ -1,3 +1,7 @@
+# PowerCLI Script for retrieving iSCSI Path Status from ESXi Hosts
+# @yenpuren
+# https://github.com/yenpuren
+
 Prerequisites & Initialization (NY)
 Before running any scripts, ensure you have the VMware.PowerCLI module installed and configured to bypass untrusted SSL certificates:
 
